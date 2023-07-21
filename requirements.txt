@@ -1,0 +1,2 @@
+# Merge PDFs
+-r requirements/requirements-mergepdfs.txt
