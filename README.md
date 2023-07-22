@@ -19,3 +19,4 @@ pip install -r requirements/requirements-<script>.txt
 ## Table of Contents
 
 - [Merge PDFs](docs/merge_pdfs.md)
+- [JSON Validator](docs/json_val.md)
