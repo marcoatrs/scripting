@@ -22,3 +22,4 @@ pip install -r requirements/requirements-<script>.txt
 - [JSON Validator](docs/json_val.md)
 - [Files Organizer](docs/organizer.md)
 - [Password Generator](docs/pypass.md)
+- [Search File](docs/search.md)
