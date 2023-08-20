@@ -1,2 +1,4 @@
 # Merge PDFs
 -r requirements/requirements-mergepdfs.txt
+# Internet Check
+-r requirements/requerements-internet.txt

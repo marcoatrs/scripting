@@ -23,3 +23,4 @@ pip install -r requirements/requirements-<script>.txt
 - [Files Organizer](docs/organizer.md)
 - [Password Generator](docs/pypass.md)
 - [Search File](docs/search.md)
+- [Internet Check](docs/internet.md)
