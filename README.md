@@ -24,3 +24,4 @@ pip install -r requirements/requirements-<script>.txt
 - [Password Generator](docs/pypass.md)
 - [Search File](docs/search.md)
 - [Internet Check](docs/internet.md)
+- [New Project](docs/new_project.md)
