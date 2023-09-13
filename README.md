@@ -10,7 +10,7 @@ Some scripts using python 3.11.4 🐍
 pip install -r requirements.txt
 ```
 
-### Only one script
+### One script
 
 ```bash
 pip install -r requirements/requirements-<script>.txt
